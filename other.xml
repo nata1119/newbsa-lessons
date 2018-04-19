@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Documents/Projects/pollux/doc/code-style.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/6.3.1/bin/node">
+      <version-cache version="6.3.1" last-modified="1469133890000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.3.1" last-modified="1469133890000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.8.0/bin/node">
+      <version-cache version="5.8.0" last-modified="1457492457000" />
+    </local-interpreter>
+  </component>
+</application>
